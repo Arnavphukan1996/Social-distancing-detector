@@ -6,4 +6,4 @@ https://pjreddie.com/media/files/yolov3.weights
 
 # Output
 
-![](https://github.com/Arnavphukan1996/Social-distancing-detector/blob/master/output_MO2oWXGC.compressed.avi)
+![]("https://github.com/Arnavphukan1996/Social-distancing-detector/blob/master/output_MO2oWXGC.compressed.avi")
