@@ -6,7 +6,7 @@ https://pjreddie.com/media/files/yolov3.weights
 
 # Output
 
-![](https://github.com/Arnavphukan1996/Social-distancing-detector/blob/master/Output/output_MO2oWXGC.compressed.avi)
+![](https://github.com/Arnavphukan1996/Social-distancing-detector/blob/master/Output/output_MO2oWXGC.avi)
 
 <figure class="large">
     <div class="myvideo">
