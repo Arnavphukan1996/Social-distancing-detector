@@ -6,4 +6,4 @@ https://pjreddie.com/media/files/yolov3.weights
 
 # Output
 
-[<video src="C://Users//Arnav Phukan//Desktop//Workspace//social-distance-detector//output.avi" height="480" width="300">]
+[<video src="C:/Users/Arnav Phukan/Desktop/Workspace/social-distance-detector/output.avi" height="480" width="300">]
