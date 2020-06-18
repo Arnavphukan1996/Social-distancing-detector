@@ -7,3 +7,12 @@ https://pjreddie.com/media/files/yolov3.weights
 # Output
 
 ![](https://github.com/Arnavphukan1996/Social-distancing-detector/blob/master/Output/output_MO2oWXGC.compressed.avi)
+
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="https://github.com/Arnavphukan1996/Social-distancing-detector/blob/master/Output/output_MO2oWXGC.compressed.avi" type="video/avi" />
+       </video>
+    </div>
+<figcaption>A nice movie format</figcaption>
+</figure>
