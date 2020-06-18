@@ -6,4 +6,4 @@ https://pjreddie.com/media/files/yolov3.weights
 
 # Output
 
-[video src="C:/Users/Arnav Phukan/Desktop/Workspace/social-distance-detector/output.avi" height="480" width="300">Detecting people in images and video streams with OpenCV][/video]
+[video src="C:/Users/Arnav Phukan/Desktop/Workspace/social-distance-detector/output.avi" height="480" width="300"]Detecting people in images and video streams with OpenCV[/video]
